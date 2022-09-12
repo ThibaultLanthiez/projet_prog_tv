@@ -4,4 +4,4 @@
 
 # Site
 
-Pour voir l'application cliquez [ici](https://share.streamlit.io/thibaultlanthiez/tv_program/main)
+Pour voir l'application cliquez [ici](https://www.programmes-tele.com/)
